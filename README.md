@@ -12,12 +12,12 @@
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/FabiSansi/Brazilian_ecommerce"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FabiSansi&repo=Brazilian_ecommerce&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/FabiSansi/Brazilian_ecommerce"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FabiSansi&repo=Brazilian_ecommerce&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="readme-typing-svg"></a>
     <a href="https://github.com/FabiSansi/Spotfy-Dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FabiSansi&repo=Spotfy-Dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/FabiSansi/newYork_subway_dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=FabiSansi&repo=newYork_subway_dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/FabiSansi/Human-Resources"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FabiSansi&repo=Human-Resources&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
     <a href="https://github.com/FabiSansi/Call_Center_Dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FabiSansi&repo=Call_Center_Dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/FabiSansi/Liquor_dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FabiSansi&repo=Liquor_dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/FabiSansi/Liquor_dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FabiSansi&repo=Liquor_dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="unicode-formatter"></a>
     <a href="https://github.com/FabiSansi/rotten_tomatoes_dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FabiSansi&repo=rotten_tomatoes_dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
   </p>
 
